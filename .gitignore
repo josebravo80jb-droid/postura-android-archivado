@@ -1,0 +1,21 @@
+﻿# Android
+*.iml
+.gradle/
+.idea/
+.DS_Store
+build/
+app/build/
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+
+# Logs
+*.log
+
+# Keystore
+*.jks
+*.keystore
+
+# Memoria interna (no compartir)
+.gemini/
